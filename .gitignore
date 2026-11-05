@@ -12,3 +12,6 @@ __pycache__/
 
 .DS_Store
 Thumbs.db
+
+gpt2-finetuned
+data
