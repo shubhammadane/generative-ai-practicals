@@ -1,0 +1,12 @@
+numpy
+matplotlib
+scipy
+scikit-learn
+torch
+torchvision
+Pillow
+diffusers
+transformers
+datasets
+accelerate
+jupyter
