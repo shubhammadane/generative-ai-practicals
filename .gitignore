@@ -3,3 +3,6 @@ __pycache__/
 *.pyc
 .ipynb_checkpoints/
 .env
+.DS_Store
+BT23F05F052/data/
+BT23F05F052/fine_tuned_generative_model/
