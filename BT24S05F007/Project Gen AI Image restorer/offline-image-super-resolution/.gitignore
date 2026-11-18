@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.py[cod]
+.DS_Store
+output/*
+!output/.gitkeep
+models/*.pth
+models/*.onnx
+models/*.part
+reports/*.csv
+.streamlit/secrets.toml
